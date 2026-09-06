@@ -1,0 +1,45 @@
+commit 72bef1827a7aaad33706adbb3dd4baa4945de958
+Merge: 222e9d7 112df27
+Author: Krish Ahir <krishahir610@gmail.com>
+Date:   Sun Sep 6 12:27:44 2026 -0700
+
+    Resolve merge conflict
+
+commit 112df275905d7a486621af2ab47f68aaae894a29
+Author: Krish Ahir <krishahir610@gmail.com>
+Date:   Fri Sep 4 22:51:56 2026 -0700
+
+    Add favorite movie
+
+commit 222e9d7516b373fc745c8fe396f1a22095b8d6d3
+Author: Krish Ahir <krishahir610@gmail.com>
+Date:   Fri Sep 4 22:49:21 2026 -0700
+
+    Add favorite food
+
+commit 1455ed8c289510b7c6e8f4192779c755c58867ee
+Author: Krish Ahir <krishahir610@gmail.com>
+Date:   Fri Sep 4 22:45:34 2026 -0700
+
+    Add README
+
+commit a66f70173d4139ab87ff95c5d31fdc4d5dc07f88
+Merge: 1d2bfc0 c53d833
+Author: Chris610-beep <130221774+Chris610-beep@users.noreply.github.com>
+Date:   Fri Sep 4 22:40:15 2026 -0700
+
+    Merge pull request #1 from Chris610-beep/info-fill
+    
+    Fill in name and Hobby
+
+commit c53d83397a7ad2160e761da38b4dea3fc0418d50
+Author: Krish Ahir <krishahir610@gmail.com>
+Date:   Fri Sep 4 22:32:17 2026 -0700
+
+    Fill in name and Hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
